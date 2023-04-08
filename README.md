@@ -14,5 +14,5 @@ That's all :)
 
 ## Project settings
 C++20 standart, MVSC.  
-The binaries will be builded in $(ProjectDir)/bin/$(Platform)/$(Configuration)/  
-The intermidates will be builded in $(ProjectDir)/Intermidate/$(Platform)/$(Configuration)/  
+The binaries will be builded in $(ProjectDir)\bin\$(Platform)\$(Configuration)\  
+The intermidates will be builded in $(ProjectDir)\Intermidate\$(Platform)\$(Configuration)\  
