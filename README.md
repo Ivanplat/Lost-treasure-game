@@ -11,3 +11,8 @@ That's all :)
 ## Source module tests files
 1. GameTests.ixx
 2. PlayerTests.ixx
+
+## Project settings
+C++20 standart, MVSC.  
+The binaries will be builded in $(ProjectDir)/bin/$(Platform)/$(Configuration)/  
+The intermidates will be builded in $(ProjectDir)/Intermidate/$(Platform)/$(Configuration)/  
