@@ -8,6 +8,6 @@ That's all :)
 2. Game.ixx
 3. Player.ixx
 
-## Sourve module tests files
+## Source module tests files
 1. GameTests.ixx
 2. PlayerTests.ixx
